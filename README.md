@@ -6,6 +6,8 @@
 
 2. In the index.html file at line 54 where it says d3.json, insert the name of the json file. Run the index.html in a Live Server and voila!
 
-Acknowledgements: Aaron Schumacher
+![cancer](cancer.png)
 
 ![tree-d3](tree-d3.png)
+
+Acknowledgements: Aaron Schumacher
