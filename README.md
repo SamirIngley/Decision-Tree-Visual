@@ -7,9 +7,9 @@
 2. In the index.html file at line 54 where it says d3.json, insert the name of the json file. Run the index.html in a Live Server and voila!
 
 ### Breast Cancer Decision Tree:
-![cancer](cancer.png)
+![cancer](imgs/cancer.png)
 
 ### Iris flower Decision Tree:
-![tree-d3](tree-d3.png)
+![tree-d3](imgs/tree-d3.png)
 
 Acknowledgements: Aaron Schumacher
